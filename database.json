@@ -374,6 +374,13 @@
     "repo": "deno",
     "desc": "A secure runtime for JavaScript and TypeScript."
   },
+  {
+    "deno": {
+    "type": "github",
+    "owner": "alreadyExisted",
+    "repo": "deno_app_setuper",
+    "desc": "A CLI to setup apps like a Create React App."
+  },
   "deno_deblong": {
     "type": "github",
     "owner": "nusendra",
